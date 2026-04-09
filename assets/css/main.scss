@@ -50,3 +50,8 @@ footer.sticky-bottom {
 footer.sticky-bottom .container {
   color: var(--global-text-color);
 }
+
+/* Force hide the People link in the navbar */
+.nav-link[href*="people"] {
+    display: none !important;
+}
