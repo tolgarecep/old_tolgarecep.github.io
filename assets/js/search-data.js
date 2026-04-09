@@ -390,9 +390,6 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-presenting-at-koc-university-science-day",
           title: 'I will be presenting at Koc University Science Day!',
           description: "",
-          section: "News",},{id: "news-i-will-be-presenting-at-koc-university-science-day",
-          title: 'I will be presenting at Koc University Science Day!',
-          description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
