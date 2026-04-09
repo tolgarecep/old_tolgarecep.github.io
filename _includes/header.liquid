@@ -117,6 +117,8 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+
+          {% comment %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
@@ -135,6 +137,20 @@
               </button>
             </li>
           {% endif %}
+          {% endcomment %}
+
+          {%- if site.search_enabled -%}
+            {%- endif -%}
+
+          {%- if site.enable_darkmode -%}
+            <li class="toggle-container">
+              <button id="light-toggle" title="Change theme">
+                <i class="fa-solid fa-moon" id="light-toggle-dark"></i>
+                <i class="fa-solid fa-sun" id="light-toggle-light"></i>
+              </button>
+            </li>
+          {%- endif -%}
+
         </ul>
       </div>
     </div>
