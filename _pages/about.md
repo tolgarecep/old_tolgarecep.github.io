@@ -31,3 +31,6 @@ My academic interest is generally scientific computing, and more specifically, n
 I enjoy the fact that my experience touched the different facets of scientific computing. Currently, I am concluding my master's studies at Koc University under the supervision of Professor Emre Mengi, with whom we primarily work on eigenvalue problems and robust stability and controllability measures. Previously, I obtained my bachelor's degree from Yildiz Technical University, where I received Undergradute Researcher Grant for my language modeling work from the scientific research council of Turkey.
 
 In my spare time, I enjoy reading about film theory, primarily the works of Andre Bazin, and think about making a new science.
+
+Contact: [tucar24@ku.edu.tr](mailto:tucar24@ku.edu.tr)
+
