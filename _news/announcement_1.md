@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Koc University Science Day
-date: 2025-5-15 00:00:00
+title: I will be presenting at Koc University Science Day on May 15, 2026!
+date: 2026-4-8
 inline: false
 related_posts: false
 ---
