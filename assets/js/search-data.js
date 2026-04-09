@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-koc-university-science-day",
-          title: 'Koc University Science Day',
+            },},{id: "news-i-will-be-presenting-at-koc-university-science-day-on-may-15-2026",
+          title: 'I will be presenting at Koc University Science Day on May 15, 2026!...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
