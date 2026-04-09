@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>SCI 156 Dept. of Mathematics</p>
-    <p>Koc University, Sariyer</p>
-    <p>Istanbul, Turkey 34550</p>
+    <p>SCI 156, Koc University</p>
+    <p>Department of Mathematics</p>
+    <p>Istanbul, Turkey</p>
 
 selected_papers: false
 social: false
