@@ -402,7 +402,7 @@ ninja.data = [{
           title: 'I will be presenting at Koc University Science Day!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_1/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
